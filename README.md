@@ -1,4 +1,4 @@
-Esse diretório apresenta dicas para a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
+Esse diretório apresenta os arquivos para a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
 
 O diretório contém os seguintes exemplos:
 - Diretório do wireframe do protótipo de interface do app EasyBola
